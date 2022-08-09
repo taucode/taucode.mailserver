@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>TauCode.MailServer</id>
+    <version>0.0.1-alpha.1.2022-08-08.00-00</version>
+    <authors>TauCode</authors>
+    <owners>TauCode</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <projectUrl>https://github.com/taucode/taucode.mailserver</projectUrl>
+    <repository type="git" url="https://github.com/taucode/taucode.mailserver"/>
+    <description>TauCode Email Server implementation.</description>
+    <releaseNotes>
+      Developing release 0.0.1.
+    </releaseNotes>
+    <tags>taucode email mail smtp imap pop3</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp6.0">
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\LICENSE*" target="" />
+    <file src="..\src\TauCode.MailServer\bin\Release\net6.0\TauCode.MailServer.dll" target="lib\net6.0" />
+  </files>
+</package>
