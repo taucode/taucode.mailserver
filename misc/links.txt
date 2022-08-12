@@ -1,1 +1,16 @@
-﻿
+﻿2022-08-08
+==========
+    1. https://stackoverflow.com/questions/8252709/using-localhost-as-mail-server
+    2. https://stackoverflow.com/questions/14804338/hmailserver-c-sharp-smtp
+    3. https://www.codeproject.com/Articles/3991/SMTP-and-POP3-Mail-Server
+    4. https://github.com/cosullivan/SmtpServer
+    5. https://www.c-sharpcorner.com/UploadFile/4d7e15/how-to-create-own-smtp-server-and-send-mail-using-C-Sharp/
+    6. https://github.com/hmailserver/hmailserver-net/tree/master/hMailServer.Core
+    7. https://www.codeproject.com/Tips/286952/create-a-simple-smtp-server-in-csharp
+    8. https://stackoverflow.com/questions/11457722/creating-an-smtp-server-c-sharp
+    9. https://stackoverflow.com/questions/39555514/how-to-implement-imap-protocol-server-side-using-c-sharp
+    10. https://stackoverflow.com/questions/38008411/collecting-smtp-server-using-mailkit-with-mimekit
+    11. https://stackoverflow.com/questions/70092596/how-to-send-an-email-with-mailkit
+    12. https://jonathancrozier.com/blog/smtpclient-is-obsolete-the-new-way-to-send-emails-from-your-net-app
+    13. https://moonback.ru/page/spf-dkim-dmarc-hmailserver
+    14. https://stackoverflow.com/questions/33477875/how-to-start-using-mailkit-library
